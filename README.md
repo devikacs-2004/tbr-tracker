@@ -32,7 +32,7 @@ This app helps you track the books you want to read, are currently reading, or h
 2. Open the folder in **VS Code**.
 3. Open the terminal and run:
    ```bash
-   python tracker.py
+      tracker.py
 ---
 ##🔮 Future Improvements (Next Versions)
 -GUI version using Tkinter
